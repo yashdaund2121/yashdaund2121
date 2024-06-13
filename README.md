@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashdaund2121
+- 👋 Hi, I’m @yashdaund
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning AI&DS
 - 💞️ I’m looking to collaborate on multinational comapny
